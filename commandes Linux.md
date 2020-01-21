@@ -23,5 +23,5 @@ __touch fichier__ : mettre à jour la date de modification d'un fichier / créer
 ## Rechercher un fichier
 __locate motif__: rechercher des fichiers dont le nom correspond au motif  
 __updatedb__ : mettre à jour l'index des fichiers  
-__find chemin options__ : rechercher des fichiers correspondant aux options (plus d'info : man find)
+__find chemin options__ : rechercher des fichiers correspondant aux options (plus d'info : man find)  
 __grep -ris 'expression'__ : rechercher des mots correspondant à l'expression saisie  
